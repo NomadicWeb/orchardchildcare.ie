@@ -49,43 +49,20 @@
 	  		 		<p>Exclusive for BlackTie.co.</p>
 	  		</header>	    
 	    </div><!-- /headerwrap -->
-
-		<!-- ==== GREYWRAP ==== -->
-		<div id="greywrap">
-			<div class="row">
-				<div class="col-lg-4 callout">
-					<span class="icon icon-stack"></span>
-					<h2>Bootstrap 3</h2>
-					<p>Shield Theme is powered by Bootstrap 3. The incredible Mobile First Framework is the best option to run your website. </p>
-				</div><!-- col-lg-4 -->
-					
-				<div class="col-lg-4 callout">
-					<span class="icon icon-eye"></span>
-					<h2>Retina Ready</h2>
-					<p>You can use this theme with your iPhone, iPad or MacBook Pro. This theme is retina ready and that is awesome. </p>
-				</div><!-- col-lg-4 -->	
-				
-				<div class="col-lg-4 callout">
-					<span class="icon icon-heart"></span>
-					<h2>Crafted with Love</h2>
-					<p>We don't make sites, we craft themes with love & passion. That is our most valued secret. We only do thing that we love.   </p>
-				</div><!-- col-lg-4 -->	
-			</div><!-- row -->
-		</div><!-- greywrap -->
 		
 		<!-- ==== ABOUT ==== -->
 		<div class="container" id="about" name="about">
 			<div class="row white">
 			<br>
-				<h1 class="centered">A LITTLE ABOUT OUR AGENCY</h1>
+				<h1 class="centered">A LITTLE ABOUT US</h1>
 				<hr>
 				
 				<div class="col-lg-6">
-					<p>We believe ideas come from everyone, everywhere. In fact, at BlackTie, everyone within our agency walls is a designer in their own right. And there are a few principles we believe—and we believe everyone should believe—about our design craft. These truths drive us, motivate us, and ultimately help us redefine the power of design. We’re big believers in doing right by our neighbors. After all, we grew up in the Twin Cities and we believe this place has much to offer. So we do what we can to support the community we love.</p>
+					<p>Sinead O Connell & Rachel O Leary are co-owners and Childhood friends. We opened Orchard Childcare together in February of 2014. Both having small children ourselves we found it imperative to make our Preschool a home away from home. Creating our perfect preschool was something we dreamt of for many years growing up together so when we finally got our chance we made the very best out of it.</p>
 				</div><!-- col-lg-6 -->
 				
 				<div class="col-lg-6">
-					<p>Over the past four years, we’ve provided more than $1 million in combined cash and pro bono support to Way to Grow, an early childhood education and nonprofit organization. Other community giving involvement throughout our agency history includes pro bono work for more than 13 organizations, direct giving, a scholarship program through the Minneapolis College of Art & Design, board memberships, and ongoing participation in the Keystone Club, which gives five percent of our company’s earnings back to the community each year.</p>
+					<p>We are a small childcare centre which means each child gets individual attention and care. We strive on learning through play for our smaller children attending our ‘baby room’ and we also do a pre-Montessori class from 2.5yrs which gives younger children an opportunity to obtain structure and routine which is vital for the free Montessori ECCE year to follow.</p>
 				</div><!-- col-lg-6 -->
 			</div><!-- row -->
 		</div><!-- container -->
@@ -140,48 +117,28 @@
 		<div class="container" id="team" name="team">
 		<br>
 			<div class="row white centered">
-				<h1 class="centered">MEET OUR AWESOME TEAM</h1>
+				<h1 class="centered">MEET OUR TEAM</h1>
 				<hr>
 				<br>
 				<br>
 				<div class="col-lg-3 centered">
-					<img class="img img-circle" src="<?php echo get_template_directory_uri(); ?>/assets/img/team/team01.jpg" height="120px" width="120px" alt="">
+					<img class="img img-circle" src="<?php echo get_template_directory_uri(); ?>/assets/img/team/rachel.png" height="120px" width="120px" alt="">
 					<br>
-					<h4><b>Mike Arney</b></h4>
+					<h4><b>Rachel</b></h4>
 					<a href="#" class="icon icon-twitter"></a>
 					<a href="#" class="icon icon-facebook"></a>
 					<a href="#" class="icon icon-flickr"></a>
-					<p>Mike combines an expert technical knowledge with a real eye for design. Working with clients from a wide range of industries, he fully understands client objectives when working on a project, large or small.</p>
+					<p>Rachel has fetac level 5, certificate in childcare and also studied Social studies. She has 9 years’ experience behind her and is fully qualified in first aid.  She has two small children, Robyn and Fia Lily, who both attend Orchard Childcare and love it!</p>
 				</div><!-- col-lg-3 -->
 				
 				<div class="col-lg-3 centered">
-					<img class="img img-circle" src="<?php echo get_template_directory_uri(); ?>/assets/img/team/team02.jpg" height="120px" width="120px" alt="">
+					<img class="img img-circle" src="<?php echo get_template_directory_uri(); ?>/assets/img/team/sinead.png" height="120px" width="120px" alt="">
 					<br>
-					<h4><b>Tim Davies</b></h4>
+					<h4><b>Sinead</b></h4>
 					<a href="#" class="icon icon-twitter"></a>
 					<a href="#" class="icon icon-facebook"></a>
 					<a href="#" class="icon icon-flickr"></a>
-					<p>Tim is an experienced marcoms practitioner and manages projects from inception to delivery. He understands the synergy between great design and commercial effectiveness which shines through on every project.</p>
-				</div><!-- col-lg-3 -->
-				
-				<div class="col-lg-3 centered">
-					<img class="img img-circle" src="<?php echo get_template_directory_uri(); ?>/assets/img/team/team03.jpg" height="120px" width="120px" alt="">
-					<br>
-					<h4><b>Michele Lampa</b></h4>
-					<a href="#" class="icon icon-twitter"></a>
-					<a href="#" class="icon icon-facebook"></a>
-					<a href="#" class="icon icon-flickr"></a>
-					<p>Be a creative director is a hard task, but Michele loves what she does. Her combination of knowledge and expertise is an important pillar in our agency.</p>
-				</div><!-- col-lg-3 -->
-				
-				<div class="col-lg-3 centered">
-					<img class="img img-circle" src="<?php echo get_template_directory_uri(); ?>/assets/img/team/team04.jpg" height="120px" width="120px" alt="">
-					<br>
-					<h4><b>Jaye Smith</b></h4>
-					<a href="#" class="icon icon-twitter"></a>
-					<a href="#" class="icon icon-facebook"></a>
-					<a href="#" class="icon icon-flickr"></a>
-					<p>Jaye began making websites when animated logos and scrolling text were cool, but has since found a love for simplicity, creating websites that are a pleasure to browse. Monkey Island Fan.</p>
+					<p>Sinead has a level 6 diploma in Montessori, Social studies and special needs. She has 15 years’ experience in Childcare and is also qualified in first aid. Sinead has two small children also who are of school going age and attend Orchard happily for all camps and any other given chance!</p>
 				</div><!-- col-lg-3 -->
 				
 			</div><!-- row -->
@@ -463,4 +420,4 @@
 
 <?php get_sidebar(); ?>
 
-<!--<?php get_footer(); ?>
+<?php get_footer(); ?>
