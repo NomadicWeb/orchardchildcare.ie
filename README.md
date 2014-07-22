@@ -1,4 +1,3 @@
 orchardchildcare.ie
 ===================
-
-website for Orchard Childcare.
+website for orchardchildcare.ie
