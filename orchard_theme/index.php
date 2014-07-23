@@ -243,7 +243,7 @@
                 
             <div class="col-lg-3">
 				<h3>Support Us</h3>
-                <p>Orchard Childcare is run by people from your local Cork community. Please help our endeavour to create a safe
+                <p>Orchard Childcare is run by people from your local community. Please help our endeavour to create a safe
                    environment for the children of Cork.</p>
             </div><!-- col -->
 
