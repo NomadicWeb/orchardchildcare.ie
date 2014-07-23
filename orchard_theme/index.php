@@ -62,7 +62,7 @@
         <!-- ==== SECTION DIVIDER1 -->
         <section class="section-divider textdivider divider1">
             <div class="container">
-                <h1 class="fancy-text">REVIEW #1</h1>
+                <h1 class="fancy-text">review #1</h1>
                 <hr>
             </div><!-- container -->
         </section><!-- section -->
@@ -136,7 +136,7 @@
         <!-- ==== SECTION DIVIDER3 -->
         <section class="section-divider textdivider divider3">
             <div class="container">
-                <h1 class="fancy-text">REVIEW #2</h1>
+                <h1 class="fancy-text">review #2</h1>
                 <hr>
             </div><!-- container -->
         </section><!-- section -->
