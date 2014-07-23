@@ -115,7 +115,7 @@
                 <hr>
                 <br>
                 <br>
-                <div class="col-lg-3 centered">
+                <div class="col-lg-6 centered">
                     <img class="img img-circle" src="<?php echo get_template_directory_uri(); ?>/assets/img/team/rachel.png" height="120px" width="120px" alt="">
                     <br>
                     <h4><b>Rachel</b></h4>
@@ -125,7 +125,7 @@
                     <p>Rachel has fetac level 5, certificate in childcare and also studied Social studies. She has 9 years’ experience behind her and is fully qualified in first aid.  She has two small children, Robyn and Fia Lily, who both attend Orchard Childcare and love it!</p>
                 </div><!-- col-lg-3 -->
                 
-                <div class="col-lg-3 centered">
+                <div class="col-lg-6 centered">
                     <img class="img img-circle" src="<?php echo get_template_directory_uri(); ?>/assets/img/team/sinead.png" height="120px" width="120px" alt="">
                     <br>
                     <h4><b>Sinead</b></h4>
@@ -146,9 +146,9 @@
                         <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/macbook.png" align="">
                     </div>
                     <div class="col-lg-4">
-                        <h2>We Are Hiring!</h2>
-                        <p>Do you want to be one of use? Sure you want, because we are an awesome team!. Here we work hard every day to craft pixel perfect sites.</p>
-                        <p><a class="btn btn-success">Contact Us</a></p>
+                        <h2>Children's happiness is our utmost priority.</h2>
+                        <p>A safe and enjoyable environment for your child all year round. Want to get in touch with us?</p>
+                        <p><a href="#contact"class="btn btn-success smoothScroll">Contact Us</a></p>
                     </div>                  
                 </div><!-- row -->
             </div>
@@ -161,7 +161,6 @@
             <div class="container">
                 <h1 class="fancy-text">REVIEW #2</h1>
                 <hr>
-                <p>From the purely practical to the richly philosophical, design is the solution to a host of challenges.</p>
             </div><!-- container -->
         </section><!-- section -->
         
@@ -292,7 +291,6 @@
             <div class="container">
                 <h1 class="fancy-text">HEADER #2</h1>
                 <hr>
-                <p>There’s more to design than meets the eye. It’s when it meets the heart that design creates a meaningful, lasting connection with the audience.</p>
             </div><!-- container -->
         </section><!-- section -->
         
@@ -350,9 +348,6 @@
             <div class="container">
                 <h1 class="fancy-text">Created in Cork, Ireland</h1>
                 <hr>
-                <p>Some Address 987,</p>
-                <p>+34 9884 4893</p>
-                <p><a class="icon icon-twitter" href="#"></a> | <a class="icon icon-facebook" href="#"></a></p>
             </div><!-- container -->
         </section><!-- section -->
         
