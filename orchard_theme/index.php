@@ -45,7 +45,7 @@
         <div id="headerwrap" id="home" name="home">
             <header class="clearfix">
                     <h1>Orchard Childcare</h1>
-                    <p>Montessori and sessional care</p>
+                    <p>Excellence in Montessori and sessional care</p>
             </header>       
         </div><!-- /headerwrap -->
         
