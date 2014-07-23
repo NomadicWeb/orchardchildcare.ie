@@ -67,9 +67,8 @@
         <!-- ==== SECTION DIVIDER1 -->
         <section class="section-divider textdivider divider1">
             <div class="container">
-                <h1 class="fancy-text">DESIGN EXPAND BOUNDARIES</h1>
+                <h1 class="fancy-text">REVIEW #1</h1>
                 <hr>
-                <p>To achieve real change, we have to expand boundaries. Because the Wild West of what-could-be is unexplored but rife with opportunity.</p>
             </div><!-- container -->
         </section><!-- section -->
         
@@ -79,9 +78,8 @@
             <br>
             <br>
             <div class="row">
-                <h2 class="centered">ONE BRAND, ONE VOICE.</h2>
+                <h1 class="centered">ONE BRAND, ONE VOICE.</h1>
                 <hr>
-                <br>
                 <div class="col-lg-offset-2 col-lg-8">
                     <p>Employees and consumers. Two halves of a brand’s entirety, the whole of a brand’s audience. Sometimes these two halves have very different viewpoints, creating a weak spot in the brand story. Weakness tarnishes credibility. Brands that aren’t credible aren’t viable.
                     </p>
@@ -104,9 +102,8 @@
         <!-- ==== SECTION DIVIDER2 -->
         <section class="section-divider textdivider divider2">
             <div class="container fancy-text">
-                <h1 class="fancy-text">DESIGN IS AN INTERACTION</h1>
+                <h1 class="fancy-text">HEADER #1</h1>
                 <hr>
-                <p>To develop a deeper and more meaningful connection with consumers, we believe design must invite them to take part in the conversation.</p>
             </div><!-- container -->
         </section><!-- section -->
 
@@ -162,7 +159,7 @@
         <!-- ==== SECTION DIVIDER3 -->
         <section class="section-divider textdivider divider3">
             <div class="container">
-                <h1 class="fancy-text">DESIGN SOLVE PROBLEMS</h1>
+                <h1 class="fancy-text">REVIEW #2</h1>
                 <hr>
                 <p>From the purely practical to the richly philosophical, design is the solution to a host of challenges.</p>
             </div><!-- container -->
@@ -293,7 +290,7 @@
         <!-- ==== SECTION DIVIDER4 ==== -->
         <section class="section-divider textdivider divider4">
             <div class="container">
-                <h1 class="fancy-text">DESIGN CREATES EMOTIONAL CONNECTION</h1>
+                <h1 class="fancy-text">HEADER #2</h1>
                 <hr>
                 <p>There’s more to design than meets the eye. It’s when it meets the heart that design creates a meaningful, lasting connection with the audience.</p>
             </div><!-- container -->
@@ -351,7 +348,7 @@
         <!-- ==== SECTION DIVIDER6 ==== -->
         <section class="section-divider textdivider divider6">
             <div class="container">
-                <h1 class="fancy-text">CRAFTED IN NEW YORK, USA.</h1>
+                <h1 class="fancy-text">Created in Cork, Ireland</h1>
                 <hr>
                 <p>Some Address 987,</p>
                 <p>+34 9884 4893</p>
