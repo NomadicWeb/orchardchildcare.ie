@@ -4067,7 +4067,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: #333;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-  background-color: #fff;
+  background-color: #fff !important;
 }
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
