@@ -44,7 +44,7 @@
         <!-- ==== HEADERWRAP ==== -->
         <div id="headerwrap" id="home" name="home">
             <header class="clearfix">
-                    <h1>Orchard Childcare</h1>
+                    <h1 class="fancy-text">Orchard Childcare</h1>
                     <p>Excellence in Montessori and sessional care</p>
             </header>       
         </div><!-- /headerwrap -->
@@ -69,7 +69,7 @@
         <!-- ==== SECTION DIVIDER1 -->
         <section class="section-divider textdivider divider1">
             <div class="container">
-                <h1>DESIGN EXPAND BOUNDARIES</h1>
+                <h1 class="fancy-text">DESIGN EXPAND BOUNDARIES</h1>
                 <hr>
                 <p>To achieve real change, we have to expand boundaries. Because the Wild West of what-could-be is unexplored but rife with opportunity.</p>
             </div><!-- container -->
@@ -105,8 +105,8 @@
 
         <!-- ==== SECTION DIVIDER2 -->
         <section class="section-divider textdivider divider2">
-            <div class="container">
-                <h1>DESIGN IS AN INTERACTION</h1>
+            <div class="container fancy-text">
+                <h1 class="fancy-text">DESIGN IS AN INTERACTION</h1>
                 <hr>
                 <p>To develop a deeper and more meaningful connection with consumers, we believe design must invite them to take part in the conversation.</p>
             </div><!-- container -->
@@ -164,7 +164,7 @@
         <!-- ==== SECTION DIVIDER3 -->
         <section class="section-divider textdivider divider3">
             <div class="container">
-                <h1>DESIGN SOLVE PROBLEMS</h1>
+                <h1 class="fancy-text">DESIGN SOLVE PROBLEMS</h1>
                 <hr>
                 <p>From the purely practical to the richly philosophical, design is the solution to a host of challenges.</p>
             </div><!-- container -->
@@ -175,7 +175,7 @@
         <br>
             <div class="row">
                 <br>
-                <h1 class="centered">WE CREATE COOL STUFF</h1>
+                <h1 class="centered fancy-text">WE CREATE COOL STUFF</h1>
                 <hr>
                 <br>
                 <br>
@@ -295,7 +295,7 @@
         <!-- ==== SECTION DIVIDER4 ==== -->
         <section class="section-divider textdivider divider4">
             <div class="container">
-                <h1>DESIGN CREATES EMOTIONAL CONNECTION</h1>
+                <h1 class="fancy-text">DESIGN CREATES EMOTIONAL CONNECTION</h1>
                 <hr>
                 <p>There’s more to design than meets the eye. It’s when it meets the heart that design creates a meaningful, lasting connection with the audience.</p>
             </div><!-- container -->
@@ -353,7 +353,7 @@
         <!-- ==== SECTION DIVIDER6 ==== -->
         <section class="section-divider textdivider divider6">
             <div class="container">
-                <h1>CRAFTED IN NEW YORK, USA.</h1>
+                <h1 class="fancy-text">CRAFTED IN NEW YORK, USA.</h1>
                 <hr>
                 <p>Some Address 987,</p>
                 <p>+34 9884 4893</p>

@@ -301,9 +301,11 @@ a:after {
     -o-background-size: cover;
     background-size: cover;
 }
+.fancy-text{
+    font-family: 'Pacifico', cursive;
+}
 
 #headerwrap h1 {
-    font-family: 'Pacifico', cursive;
     margin-top: 90px;
     padding-bottom: 30px;
     letter-spacing: 8px;
