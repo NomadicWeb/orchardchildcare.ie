@@ -328,6 +328,7 @@ a:after {
     color:black;
     text-transform:uppercase;
     font-size: 30px;
+    margin-top:-30px;
     font-weight: 400;
     text-align: center;
     letter-spacing: 3px;
