@@ -281,13 +281,13 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-    /*background: url(../img/OrchardLogo.jpg) no-repeat center top;*/
+    background: url(../img/logo.png) no-repeat center top;
     margin-top: -50px;
     padding-top:120px;
     text-align:center;
     background-attachment: relative;
     background-position: center center;
-    min-height: 650px;
+    min-height: 750px;
     width: 100%;
     
     -webkit-background-size: 100%;
