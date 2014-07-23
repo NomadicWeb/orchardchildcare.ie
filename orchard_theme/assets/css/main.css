@@ -386,10 +386,9 @@ a:after {
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
-    padding-top: 30px;
+    padding-top: 90px;
     padding-bottom: 70px;
     margin-top: 45px;
-
 
     background-position: center center;
 
@@ -409,13 +408,12 @@ a:after {
 }
 
 .textdivider h1 {
-    padding-top: 70px;
-    color: white;
+    color: black;
     font-size: 40px;
 }
 
 .textdivider p {
-    color: white;
+    color: black;
     font-size: 25px;
 }
 
@@ -423,24 +421,24 @@ a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-    background-image: url('../img/bg/divider1.jpg')
+    background-image: url('../img/bg/divider1.png')
 }
 
 .divider2 {
-    background-image: url('../img/bg/divider2.jpg')
+    background-image: url('../img/bg/divider2.png')
 }
 
 .divider3 {
-    background-image: url('../img/bg/divider3.jpg');
+    background-image: url('../img/bg/divider3.png');
     margin-top: 0px;
 }
 
 .divider4 {
-    background-image: url('../img/bg/divider4.jpg')
+    background-image: url('../img/bg/divider4.png')
 }
 
 .divider6 {
-    background-image: url('../img/bg/divider6.jpg')
+    background-image: url('../img/bg/divider6.png')
 }
 
 
