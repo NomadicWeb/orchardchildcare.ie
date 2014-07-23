@@ -373,7 +373,7 @@ a:after {
 }
 
 .white p {
-    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 /* Section Dividers */
@@ -653,4 +653,3 @@ a:after {
         line-height: 30px;
     }
 }
-
