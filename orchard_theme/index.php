@@ -39,7 +39,7 @@
         <!-- ==== HEADERWRAP ==== -->
         <div id="headerwrap" id="home" name="home">
             <header class="clearfix">
-                    <h1 class="fancy-text">Orchard Childcare</h1>
+                    <h1 class="fancy-header">Orchard Childcare</h1>
                     <p>Excellence in Montessori and sessional care</p>
             </header>       
         </div><!-- /headerwrap -->
@@ -79,7 +79,7 @@
         <!-- ==== SECTION DIVIDER2 -->
         <section class="section-divider textdivider divider2">
             <div class="container fancy-text">
-                <h1 class="fancy-text">HEADER #1</h1>
+                <h1 class="fancy-text">Experienced and reliable childcare for your family</h1>
                 <hr>
             </div><!-- container -->
         </section><!-- section -->
@@ -123,9 +123,9 @@
                         <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/macbook.png" align="">
                     </div>
                     <div class="col-lg-4">
-                        <h2>Children's happiness is our utmost priority.</h2>
+                        <h2>Your childs happiness is our utmost priority.</h2>
                         <p>A safe and enjoyable environment for your child all year round. Want to get in touch with us?</p>
-                        <p><a href="#contact"class="btn btn-success smoothScroll">Contact Us</a></p>
+                        <p><a href="#contact"class="btn btn-success smoothScroll">Contact us Now!</a></p>
                     </div>                  
                 </div><!-- row -->
             </div>
@@ -145,9 +145,6 @@
         <div class="container" id="portfolio" name="portfolio">
         <br>
             <div class="row">
-                <br>
-                <h1 class="centered fancy-text">We create a safe and fun environment</h1>
-                <hr>
                 <br>
                 <br>
             </div><!-- /row -->
@@ -220,31 +217,29 @@
 
     <!-- ==== SECTION DIVIDER4 ==== -->
     <section class="section-divider textdivider divider4">
-		<div class="container">
-			<h1 class="fancy-text">HEADER #2</h1>
+        <div class="container">
+            <h1 class="fancy-text">We create memorable experiences for your child</h1>
         </div><!-- container -->
     </section><!-- section -->
         
     <div class="container" id="contact" name="contact">
-		<div class="row">
+        <div class="row">
             <br>
-			<h1 class="centered">THANKS FOR VISITING US</h1>
-            <br>
-            <br>
+            <h1 class="centered">THANKS FOR VISITING US</h1>
             <div class="col-lg-3"></div>
             <div class="col-lg-3">
-				<h3>Contact Information</h3>
+                <h3>Contact Information</h3>
                 <p><span class="icon icon-home"></span>6 The mews Riverway</br> South Douglas road</br> Cork Ireland<br/>
                 <span class="icon icon-phone"></span>Rachel: 086 6633233<br/>
-				<span class="icon icon-mobile"></span>Sinead: 085 8274015<br/>
+                <span class="icon icon-mobile"></span>Sinead: 085 8274015<br/>
                 <span class="icon icon-envelop"></span> <a href="#">orchardchildcare@gmail.com</a> <br/>
                 </p>
             </div><!-- col -->
                 
             <div class="col-lg-3">
-				<h3>Support Us</h3>
-                <p>Orchard Childcare is run by people from your local community. Please help our endeavour to create a safe
-                   environment for the children of Cork.</p>
+                <h3>Support Us</h3>
+                <p>Orchard Childcare is run by members of your local community. Please help our endeavour to create a safe environment for the children of Cork.</p>
+
             </div><!-- col -->
 
         </div><!-- row -->
