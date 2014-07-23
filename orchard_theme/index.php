@@ -56,12 +56,10 @@
                 <h1 class="centered">Who are we?</h1>
                 <hr>
                 
-                <div class="col-lg-6">
-                    <p><span class="big"><a href="#team" class="smoothScroll">Sinead O Connell</a> </span>&amp; <span class="big"><a href="#team" class="smoothScroll">Rachel O Leary</a></span> are co-owners and childhood friends. We opened Orchard Childcare together in February of 2014. Both having small children ourselves we found it imperative to make our pre-school a `home away from home`. Creating our perfect pre-school was something we dreamt of for many years growing up together so when we finally got our chance we made the very best out of it.</p>
-                </div><!-- col-lg-6 -->
-                
-                <div class="col-lg-6">
-                    <p>We are a small childcare centre which means each child gets individual attention and care. We strive for learning through play for our smaller children attending our `baby room` and we also do a pre-Montessori class from 2.5yrs which gives younger children an opportunity to obtain structure and routine which is vital for the free Montessori ECCE year to follow.</p>
+                <div class="col-lg-12">
+                    <p><span class="big"><a href="#team" class="smoothScroll">Sinead O Connell</a> </span>&amp; <span class="big"><a href="#team" class="smoothScroll">Rachel O Leary</a></span> are co-owners and childhood friends. We opened Orchard Childcare together in February of 2014. Both having small children ourselves we found it imperative to make our pre-school a home away from home. Creating our perfect pre-school was something we dreamt of for many years growing up together and when we finally got our chance we made the very best out of it.</p>
+
+<p>We are a small childcare centre which means each child gets individual attention and care. We strive for learning through play for our smaller children attending our `baby room` and we also do a pre-Montessori class from 2.5yrs which gives younger children an opportunity to obtain structure and routine which is vital for the free Montessori ECCE year to follow.</p>
                 </div><!-- col-lg-6 -->
             </div><!-- row -->
         </div><!-- container -->
