@@ -3,13 +3,8 @@
     <main role="main">
         <!-- section -->
         <section>
-
-            <h1><?php _e( 'Latest Posts', 'html5blank' ); ?></h1>
-
             <?php get_template_part('loop'); ?>
-
             <?php get_template_part('pagination'); ?>
-
         </section>
 
   <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
@@ -21,7 +16,7 @@
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon icon-shield" style="font-size:30px; color:#3498db;"></span>
+            <span class="icon icon-shield" style="font-size:30px; color:white;"></span>
           </button>
           <a class="navbar-brand hidden-xs hidden-sm" href="#home"><span class="icon icon-shield" style="font-size:18px; color:#3498db;"></span></a>
         </div>
@@ -274,7 +269,8 @@
                 
                 <div class="col-lg-4">
                     <h3>Support Us</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p>Our Creche is run locally and by people from your community. Please support our
+endeavour to create a fun and safe envirnment for the children of Cork making it easier for parents to get more out of their time.</p>
                 </div><!-- col -->
 
             </div><!-- row -->
