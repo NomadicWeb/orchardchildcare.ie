@@ -17,6 +17,9 @@
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="icon icon-shield" style="font-size:30px; color:white;"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand hidden-xs hidden-sm" href="#home"><span class="icon icon-shield" style="font-size:18px; color:#3498db;"></span></a>
         </div>
@@ -228,7 +231,8 @@
 			<h1 class="centered">THANKS FOR VISITING US</h1>
             <br>
             <br>
-            <div class="col-lg-6">
+            <div class="col-lg-3"></div>
+            <div class="col-lg-3">
 				<h3>Contact Information</h3>
                 <p><span class="icon icon-home"></span>6 The mews Riverway</br> South Douglas road</br> Cork Ireland<br/>
                 <span class="icon icon-phone"></span>Rachel: 086 6633233<br/>
@@ -237,9 +241,10 @@
                 </p>
             </div><!-- col -->
                 
-            <div class="col-lg-6">
+            <div class="col-lg-3">
 				<h3>Support Us</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>Orchard Childcare is run by people from your local community. Please help our endeavour to create a safe
+                   environment for the children of Cork.</p>
             </div><!-- col -->
 
         </div><!-- row -->
