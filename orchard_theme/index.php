@@ -8,8 +8,8 @@
         </section>
 
   <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
-  
-  
+
+
     <div id="navbar-main">
       <!-- Fixed navbar -->
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -35,22 +35,22 @@
       </div>
     </div>
     </div>
-  
+
         <!-- ==== HEADERWRAP ==== -->
         <div id="headerwrap" id="home" name="home">
             <header class="clearfix">
                     <h1 class="fancy-header">Orchard Childcare</h1>
                     <p>Excellence in Montessori and sessional care</p>
-            </header>       
+            </header>
         </div><!-- /headerwrap -->
-        
+
         <!-- ==== ABOUT ==== -->
         <div class="container" id="about" name="about">
             <div class="row white">
             <br>
                 <h1 class="centered">Who are we?</h1>
                 <hr>
-                
+
                 <div class="col-lg-12">
                     <p><span class="big"><a href="#team" class="smoothScroll">Sinead O Connell</a> </span>&amp; <span class="big"><a href="#team" class="smoothScroll">Rachel O Leary</a></span> are co-owners and childhood friends. We opened Orchard Childcare together in February of 2014. Both having small children ourselves we found it imperative to make our pre-school a home away from home. Creating our perfect pre-school was something we dreamt of for many years growing up together and when we finally got our chance we made the very best out of it.</p>
 
@@ -58,15 +58,15 @@
                 </div><!-- col-lg-6 -->
             </div><!-- row -->
         </div><!-- container -->
-        
+
         <!-- ==== SECTION DIVIDER1 -->
         <section class="section-divider textdivider divider1">
             <div class="container">
                 <div class="col-md-8 col-md-offset-1">
                     <h3 class="fancy-text">
-                        My daughter Ella has attended Orchard since it's opening, and I can honestly say she absolutely loves it. 
+                        My daughter Ella has attended Orchard since it's opening, and I can honestly say she absolutely loves it.
                         She runs into the school every morning and has to be dragged out every day!
-                        And and she adores her teachers Rachel and Sinead. I love all the innovative and fun ideas that they pack the 
+                        And and she adores her teachers Rachel and Sinead. I love all the innovative and fun ideas that they pack the
                         days with, and I love that Ella absorbs so much creativity on a daily basis.
                         I highly recommend Orchard Childcare!</h3>
                     <hr>
@@ -78,15 +78,15 @@
                 </div>
             </div><!-- container -->
         </section><!-- section -->
-        
-        
+
+
         <!-- ==== SERVICES ==== -->
         <div class="container" id="services" name="services">
             <br>
             <br>
             @TODO
         </div><!-- container -->
-        
+
 
         <!-- ==== SECTION DIVIDER2 -->
         <section class="section-divider textdivider divider2">
@@ -100,7 +100,7 @@
         <div class="container" id="team" name="team">
         <br>
             <div class="row white centered">
-                <h1 class="centered">MEET THE FOUNDERS</h1>
+                <h1 class="centered">MEET THE TEAM</h1>
                 <hr>
                 <br>
                 <br>
@@ -113,7 +113,7 @@
                     <a href="#" class="icon icon-flickr"></a>
                     <p>Rachel has fetac level 5, certificate in childcare and also studied Social studies. She has 9 years’ experience behind her and is fully qualified in first aid.  She has two small children, Robyn and Fia Lily, who both attend Orchard Childcare and love it!</p>
                 </div><!-- col-lg-3 -->
-                
+
                 <div class="col-lg-6 centered">
                     <img class="img img-circle" src="<?php echo get_template_directory_uri(); ?>/assets/img/team/sinead.png" height="120px" width="120px" alt="">
                     <br>
@@ -123,7 +123,7 @@
                     <a href="#" class="icon icon-flickr"></a>
                     <p>Sinead has a level 6 diploma in Montessori, Social studies and special needs. She has 15 years’ experience in Childcare and is also qualified in first aid. Sinead has two small children also who are of school going age and attend Orchard happily for all camps and any other given chance!</p>
                 </div><!-- col-lg-3 -->
-                
+
             </div><!-- row -->
         </div><!-- container -->
 
@@ -138,13 +138,13 @@
                         <h2>Your childs happiness is our utmost priority.</h2>
                         <p>A safe and enjoyable environment for your child all year round. Want to get in touch with us?</p>
                         <p><a href="#contact"class="btn btn-success smoothScroll">Contact us Now!</a></p>
-                    </div>                  
+                    </div>
                 </div><!-- row -->
             </div>
             <br>
             <br>
         </div><!-- greywrap -->
-        
+
         <!-- ==== SECTION DIVIDER3 -->
         <section class="section-divider textdivider divider3">
             <div class="container">
@@ -162,7 +162,8 @@
                 </div>
             </div><!-- container -->
         </section><!-- section -->
-        
+
+
         <!-- ==== PORTFOLIO ==== -->
         <div class="container" id="portfolio" name="portfolio">
         <br>
@@ -171,8 +172,8 @@
                 <br>
             </div><!-- /row -->
             <div class="container">
-            <div class="row">   
-            
+            <div class="row">
+
                 <!-- PORTFOLIO IMAGE 1 -->
                 <div class="col-md-4 ">
                     <div class="grid mask">
@@ -184,11 +185,11 @@
                         </figure><!-- /figure -->
                     </div><!-- /grid-mask -->
                 </div><!-- /col -->
-                
-                
+
+
                          <!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
                               a modal for each of your projects. -->
-                              
+
                           <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                             <div class="modal-dialog">
                               <div class="modal-content">
@@ -207,8 +208,8 @@
                               </div><!-- /.modal-content -->
                             </div><!-- /.modal-dialog -->
                           </div><!-- /.modal -->
-                
-                
+
+
                 <!-- PORTFOLIO IMAGE 2 -->
                 <div class="col-md-4">
                     <div class="grid mask">
@@ -220,7 +221,7 @@
                         </figure><!-- /figure -->
                     </div><!-- /grid-mask -->
                 </div><!-- /col -->
-                
+
                 <!-- PORTFOLIO IMAGE 3 -->
                 <div class="col-md-4">
                     <div class="grid mask">
@@ -243,7 +244,33 @@
             <h1 class="fancy-text">We create memorable experiences for your child</h1>
         </div><!-- container -->
     </section><!-- section -->
-        
+
+
+
+        <!-- ==== SERVICES ==== -->
+        <div class="container" id="services" name="services">
+            <br>
+            <br>
+            @TODO
+        </div><!-- container -->
+
+        <!-- ==== SECTION DIVIDER1 -->
+        <section class="section-divider textdivider divider1">
+            <div class="container">
+                <div class="col-md-8 col-md-offset-1">
+                    <h3 class="fancy-text">
+                        As a first time mother it was a tough decision where to send my 9 month old baby boy when I returned to work, but Rachel and Sinead are amazing, he was a little apprehensive during his first few days as he had been with me at home until this time. But now he adores it, he goes in smiling and more importantly he comes out smiling too.
+                    </h3>
+                    <hr>
+                    <h3 class="fancy-text">Laura O Connor and her son Seb</h3>
+                </div>
+                <div class="col-md-2 thumb-review">
+                    <img data-src="holder.js/100%x180" alt="100%x180" class="img-thumbnail img-responsive"
+                             src="<?php echo get_template_directory_uri(); ?>/assets/img/photo3.jpg">
+                </div>
+            </div><!-- container -->
+        </section><!-- section -->
+
     <div class="container" id="contact" name="contact">
         <div class="row">
             <br>
@@ -257,7 +284,7 @@
                 <span class="icon icon-envelop"></span> <a href="#">orchardchildcare@gmail.com</a> <br/>
                 </p>
             </div><!-- col -->
-                
+
             <div class="col-lg-3">
                 <h3>Support Us</h3>
                 <p>Orchard Childcare is run by members of your local community. Please help our endeavour to create a safe environment for the children of Cork.</p>
@@ -265,7 +292,7 @@
             </div><!-- col -->
 
         </div><!-- row -->
-        
+
     </div><!-- container -->
     </main>
 
