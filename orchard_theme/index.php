@@ -88,12 +88,60 @@
             <br>
             <br>
 
-            <div class="col-md-6 hidden-md hidden-lg">
-
+            <div class="col-md-6 hidden-sm hidden-md hidden-lg">
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th><h1>Morning</h1></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td><h3>9am - 12.30pm</h3></td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th><h1>Afternoon</h1></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td><h3>1.30pm - 5pm</h3></td>
+                    </tr>
+                    <tr>
+                        <td>Extra hour offered for fee of &euro;6.</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th><h1>6 mo. - 2.5 yr.</h1></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td><h3>&euro;18.50 per session</h3></td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th><h1>2.5 yr. - 4.5 yr.</h1></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td><h3>&euro;22.50 per session</h3></td>
+                    </tr>
+                  </tbody>
+                </table>
             </div>
-            <div class="col-md-6 hidden-md hidden-lg">
-
-            </div>
+            <div class="col-md-6 hidden-sm hidden-md hidden-lg"> </div>
 
             <div class="col-md-6 hidden-xs">
                 <table class="table table-striped">
@@ -105,8 +153,8 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <td><h3>9am : 12.30pm</h3></td>
-                      <td><h3>1.30pm : 5pm</h3></td>
+                      <td><h3>9am - 12.30pm</h3></td>
+                      <td><h3>1.30pm - 5pm</h3></td>
                     </tr>
                     <tr>
                         <td>Extra hour offered for fee of &euro;6.</td>
@@ -129,6 +177,13 @@
                     </tr>
                   </tbody>
                 </table>
+            </div>
+            <div class="col-md-12">
+                <ul>
+                    <li>All fees payable throughout the year, including bank/public holidays and midterms except 
+                        one week at Christmas and one week at Summer.</li>
+                    <li>Open all year round except for one week at Christmas and bank holidays</li>
+                </ul>
             </div>
         </div><!-- container -->
 
