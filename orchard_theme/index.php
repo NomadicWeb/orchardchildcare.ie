@@ -30,6 +30,7 @@
             <li> <a href="#services" class="smoothScroll"> Timetable</a></li>
             <li> <a href="#team" class="smoothScroll"> Team</a></li>
             <li> <a href="#portfolio" class="smoothScroll"> Gallery</a></li>
+            <li> <a href="#offers" class="smoothScroll"> Offers</a></li>
             <li> <a href="#contact" class="smoothScroll"> Contact</a></li>
         </div><!--/.nav-collapse -->
       </div>
@@ -248,7 +249,7 @@
 
 
         <!-- ==== SERVICES ==== -->
-        <div class="container" id="services" name="services">
+        <div class="container" id="offers" name="offers">
             <br>
             <br>
             @TODO
