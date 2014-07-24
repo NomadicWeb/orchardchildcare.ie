@@ -27,7 +27,7 @@
           <ul class="nav navbar-nav">
             <li><a href="#home" class="smoothScroll">Home</a></li>
             <li> <a href="#about" class="smoothScroll"> About</a></li>
-            <li> <a href="#services" class="smoothScroll"> Timetable</a></li>
+            <li> <a href="#services" class="smoothScroll"> Sessions</a></li>
             <li> <a href="#team" class="smoothScroll"> Team</a></li>
             <li> <a href="#portfolio" class="smoothScroll"> Gallery</a></li>
             <li> <a href="#offers" class="smoothScroll"> Offers</a></li>
@@ -83,9 +83,53 @@
 
         <!-- ==== SERVICES ==== -->
         <div class="container" id="services" name="services">
+            <h1 class="centered">Sessions and prices</h1>
+            <hr>
             <br>
             <br>
-            @TODO
+
+            <div class="col-md-6 hidden-md hidden-lg">
+
+            </div>
+            <div class="col-md-6 hidden-md hidden-lg">
+
+            </div>
+
+            <div class="col-md-6 hidden-xs">
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th><h1>Morning</h1></th>
+                      <th><h1>Afternoon</h1></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td><h3>9am : 12.30pm</h3></td>
+                      <td><h3>1.30pm : 5pm</h3></td>
+                    </tr>
+                    <tr>
+                        <td>Extra hour offered for fee of &euro;6.</td>
+                    </tr>
+                  </tbody>
+                </table>
+            </div>
+            <div class="col-md-6">
+                <table class="table table-striped hidden-xs">
+                  <thead>
+                    <tr>
+                      <th><h1>6 mo. - 2.5 yr.</h1></th>
+                      <th><h1>2.5 yr. - 4.5 yr.</h1></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td><h3>&euro;18.50 per session</h3></td>
+                      <td><h3>&euro;22.50 per session</h3></td>
+                    </tr>
+                  </tbody>
+                </table>
+            </div>
         </div><!-- container -->
 
 
