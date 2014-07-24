@@ -666,3 +666,7 @@ a:after {
         line-height: 30px;
     }
 }
+
+.thumb-review img{
+    margin-top:30px;
+}

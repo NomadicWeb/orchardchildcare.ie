@@ -62,8 +62,20 @@
         <!-- ==== SECTION DIVIDER1 -->
         <section class="section-divider textdivider divider1">
             <div class="container">
-                <h1 class="fancy-text">review #1</h1>
-                <hr>
+                <div class="col-md-8 col-md-offset-1">
+                    <h3 class="fancy-text">
+                        My daughter Ella has attended Orchard since it's opening, and I can honestly say she absolutely loves it. 
+                        She runs into the school every morning and has to be dragged out every day!
+                        And and she adores her teachers Rachel and Sinead. I love all the innovative and fun ideas that they pack the 
+                        days with, and I love that Ella absorbs so much creativity on a daily basis.
+                        I highly recommend Orchard Childcare!</h3>
+                    <hr>
+                    <h3 class="fancy-text">Sarah o keeffe and daughter Ella </h3>
+                </div>
+                <div class="col-md-2 thumb-review">
+                    <img data-src="holder.js/100%x180" alt="100%x180" class="img-thumbnail img-responsive"
+                             src="<?php echo get_template_directory_uri(); ?>/assets/img/photo1.jpg">
+                </div>
             </div><!-- container -->
         </section><!-- section -->
         
@@ -136,8 +148,18 @@
         <!-- ==== SECTION DIVIDER3 -->
         <section class="section-divider textdivider divider3">
             <div class="container">
-                <h1 class="fancy-text">review #2</h1>
-                <hr>
+                <div class="col-md-2 thumb-review col-md-offset-1">
+                    <img data-src="holder.js/100%x180" alt="100%x180"
+                         class="img-thumbnail img-responsive"
+                         src="<?php echo get_template_directory_uri(); ?>/assets/img/photo2.jpg">
+                </div>
+                <div class="col-md-8">
+                    <h3 class="fancy-text">
+                    Sinead and Rachel have gone above and beyond for Jack along with every child in their care and I honestly believe there is no where else he could have gotten a better start. Thank you from the bottom of my heart Orchard Childcare!
+                    </h3>
+                    <hr>
+                    <h3 class="fancy-text">Claire Conlon and her son Jack</h3>
+                </div>
             </div><!-- container -->
         </section><!-- section -->
         
