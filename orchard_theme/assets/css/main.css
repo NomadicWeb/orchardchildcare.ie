@@ -166,7 +166,7 @@ a img {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
+    font-family: "Verdana";
     font-weight: 300;
     color: #333;
 }
@@ -487,11 +487,6 @@ a:after {
 
 .service-active .service-trigger {
     background: #222;
-}
-
-.service-active p {
-    font-family: 'Lato', sans-serif;
-    padding-top: 10px;
 }
 
 .service-content {

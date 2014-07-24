@@ -40,8 +40,8 @@
         <!-- ==== HEADERWRAP ==== -->
         <div id="headerwrap" id="home" name="home">
             <header class="clearfix">
-                    <h1 class="fancy-header">Orchard Childcare</h1>
-                    <p>Excellence in Montessori and sessional care</p>
+                <h1 class="fancy-header">Orchard Childcare</h1>
+                <p>Excellence in Montessori and sessional care</p>
             </header>
         </div><!-- /headerwrap -->
 
@@ -49,7 +49,7 @@
         <div class="container" id="about" name="about">
             <div class="row white">
             <br>
-                <h1 class="white centered">Who are we?</h1>
+                <h1 class="white centered">About us</h1>
                 <hr>
 
                 <div class="col-lg-12">
