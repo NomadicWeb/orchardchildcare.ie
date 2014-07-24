@@ -49,7 +49,7 @@
         <div class="container" id="about" name="about">
             <div class="row white">
             <br>
-                <h1 class="centered">Who are we?</h1>
+                <h1 class="white centered">Who are we?</h1>
                 <hr>
 
                 <div class="col-lg-12">
@@ -83,7 +83,8 @@
 
         <!-- ==== SERVICES ==== -->
         <div class="container" id="services" name="services">
-            <h1 class="centered">Sessions and prices</h1>
+            <br><br>
+                <h1 class="white centered">Sessions and prices</h1>
             <hr>
             <br>
             <br>
@@ -179,6 +180,7 @@
                 </table>
             </div>
             <div class="col-md-12">
+                <hr></hr>
                 <ul>
                     <li>All fees payable throughout the year, including bank/public holidays and midterms except 
                         one week at Christmas and one week at Summer.</li>
@@ -237,7 +239,7 @@
                     <div class="col-lg-4">
                         <h2>Your childs happiness is our utmost priority.</h2>
                         <p>A safe and enjoyable environment for your child all year round. Want to get in touch with us?</p>
-                        <p><a href="#contact"class="btn btn-success smoothScroll">Contact us Now!</a></p>
+                        <p><a href="#contact" class="centered btn btn-info smoothScroll">Contact us Now!</a></p>
                     </div>
                 </div><!-- row -->
             </div>
@@ -349,9 +351,29 @@
 
         <!-- ==== SERVICES ==== -->
         <div class="container" id="offers" name="offers">
+            <br><br>
+            <h1 class="white centered">Offers</h1>
+            <hr>
             <br>
-            <br>
-            @TODO
+            <div class="col-md-6">
+                <h1 class="text-center">School homework club until 6pm which includes collection from local schools!</h1>
+                <h3 class="text-center">After the afternoon session we hold a after school homework session in-house here
+                                       at the childcare. We can arrange school pick-up if necessary!*</h3>
+                <hr>
+                <p class="text-center"><a href="#contact" class="centered btn btn-info smoothscroll">contact us now!</a></p>
+            </div>
+            <div class="col-md-6">
+                <h1 class="text-center">Free Pre-school year</h1>
+                <h3 class="text-center">Apply now for this fantastic offer starting September!**</h3>
+                <hr>
+                <p class="text-center"><a href="#contact" class="centered btn btn-info smoothscroll">contact us now!</a></p>
+            </div>
+
+            <div class="col-md-12">
+            <hr></hr>
+                <p>* Contact us for list of schools and prices as may vary</p>
+                <p>** Places are very limited!</p>
+            </div>
         </div><!-- container -->
 
         <!-- ==== SECTION DIVIDER1 -->
