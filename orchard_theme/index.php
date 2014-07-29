@@ -67,11 +67,11 @@
                     <h3 class="fancy-text">
                         My daughter Ella has attended Orchard since it's opening, and I can honestly say she absolutely loves it.
                         She runs into the school every morning and has to be dragged out every day!
-                        And and she adores her teachers Rachel and Sinead. I love all the innovative and fun ideas that they pack the
+                        She adores her teachers Rachel and Sinead. I love all the innovative and fun ideas that they pack the
                         days with, and I love that Ella absorbs so much creativity on a daily basis.
                         I highly recommend Orchard Childcare!</h3>
                     <hr>
-                    <h3 class="fancy-text">Sarah o keeffe and daughter Ella </h3>
+                    <h3 class="fancy-text">Sarah O Keeffe and daughter Ella </h3>
                 </div>
                 <div class="col-md-2 thumb-review">
                     <img data-src="holder.js/100%x180" alt="100%x180" class="img-thumbnail img-responsive"
@@ -213,7 +213,7 @@
                     <a href="#" class="icon icon-twitter"></a>
                     <a href="#" class="icon icon-facebook"></a>
                     <a href="#" class="icon icon-flickr"></a>
-                    <p>Rachel has fetac level 5, certificate in childcare and also studied Social studies. She has 9 years’ experience behind her and is fully qualified in first aid.  She has two small children, Robyn and Fia Lily, who both attend Orchard Childcare and love it!</p>
+                    <p>Rachel has a FETAC level 5, certificate in childcare and also studied Social studies. She has 9 years’ experience behind her and is fully qualified in first aid. She has two small children, Robyn and Fia Lily, who both attend Orchard Childcare and love it!</p>
                 </div><!-- col-lg-3 -->
 
                 <div class="col-lg-6 centered">
@@ -237,7 +237,7 @@
                         <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/macbook.png" align="">
                     </div>
                     <div class="col-lg-4">
-                        <h2>Your childs happiness is our utmost priority.</h2>
+                        <h2>Your child's happiness is our utmost priority.</h2>
                         <p>A safe and enjoyable environment for your child all year round. Want to get in touch with us?</p>
                         <p><a href="#contact" class="centered btn btn-info smoothScroll">Contact us Now!</a></p>
                     </div>
