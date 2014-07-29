@@ -363,8 +363,8 @@
                 <p class="text-center"><a href="#contact" class="centered btn btn-info smoothscroll">contact us now!</a></p>
             </div>
             <div class="col-md-6">
-                <h1 class="text-center">Free Pre-school year</h1>
-                <h3 class="text-center">Apply now for this fantastic offer starting September!**</h3>
+                <h1 class="text-center">Free pre-school year for all children eligible for the ECCE scheme this September</h1>
+                <h3 class="text-center">Children are eligible for the ECCE** scheme if they are aged over 3 years 2 months and less than 4 years 7 months on 1 September of the year that they will be starting. It's from 9 - 12 each morning but if needed, children can stay on until 1.30 at a small fee. </h3>
                 <hr>
                 <p class="text-center"><a href="#contact" class="centered btn btn-info smoothscroll">contact us now!</a></p>
             </div>
@@ -372,7 +372,7 @@
             <div class="col-md-12">
             <hr></hr>
                 <p>* Contact us for list of schools and prices as may vary</p>
-                <p>** Places are very limited!</p>
+                <p>** Early Childhood Care and Education. Places very limited, contact us now for details.</p>
             </div>
         </div><!-- container -->
 
