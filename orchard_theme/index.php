@@ -359,14 +359,14 @@
                 <h1 class="text-center">After School Homework Club</h1>
                 <h3 class="text-center">We hold an after school homework session in-house here
                                        at the childcare until 6pm. We can arrange school pick-up if you need a helping hand! 
-                                       Contact us for list of schools and prices as may vary
+                                       Contact us for list of schools and prices as may vary.
                 </h3>
                 <hr>
                 <p class="text-center"><a href="#contact" class="centered btn btn-info smoothscroll">contact us now!</a></p>
             </div>
             <div class="col-md-6">
                 <h1 class="text-center">Free Pre-school Year</h1>
-                <h3 class="text-center">Children are eligible for the ECCE* scheme if they are aged over 3 years 2 months and less than 4 years 7 months on 1rst September of the year that they will be starting. It's from 9 - 12 or 1.30 - 4.30</h3>
+                <h3 class="text-center">Children are eligible for the ECCE* scheme if they are aged over 3 years 2 months and less than 4 years 7 months on 1rst September of the year that they will be starting. Sessions at 9 - 12 and 1.30 - 4.30.</h3>
                 <hr>
                 <p class="text-center"><a href="#contact" class="centered btn btn-info smoothscroll">contact us now!</a></p>
             </div>
