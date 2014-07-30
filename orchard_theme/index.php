@@ -125,7 +125,7 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <td><h3>&euro;18.50 per session</h3></td>
+                      <td><h3>&euro;22.50 per session</h3></td>
                     </tr>
                   </tbody>
                 </table>
@@ -137,7 +137,7 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <td><h3>&euro;22.50 per session</h3></td>
+                      <td><h3>&euro;18.50 per session</h3></td>
                     </tr>
                   </tbody>
                 </table>
@@ -330,7 +330,7 @@
                         <figure>
                             <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/portfolio/folio03.jpg" alt="">
                             <figcaption>
-                                <h5>Painting time!</h5>
+                                <h5>Reading time!</h5>
                             </figcaption><!-- /figcaption -->
                         </figure><!-- /figure -->
                     </div><!-- /grid-mask -->
@@ -356,23 +356,24 @@
             <hr>
             <br>
             <div class="col-md-6">
-                <h1 class="text-center">School homework club until 6pm which includes collection from local schools!</h1>
-                <h3 class="text-center">After the afternoon session we hold a after school homework session in-house here
-                                       at the childcare. We can arrange school pick-up if necessary!*</h3>
+                <h1 class="text-center">After School Homework Club</h1>
+                <h3 class="text-center">We hold an after school homework session in-house here
+                                       at the childcare until 6pm. We can arrange school pick-up if you need a helping hand! 
+                                       Contact us for list of schools and prices as may vary
+                </h3>
                 <hr>
                 <p class="text-center"><a href="#contact" class="centered btn btn-info smoothscroll">contact us now!</a></p>
             </div>
             <div class="col-md-6">
-                <h1 class="text-center">Free pre-school year for all children eligible for the ECCE scheme this September</h1>
-                <h3 class="text-center">Children are eligible for the ECCE** scheme if they are aged over 3 years 2 months and less than 4 years 7 months on 1 September of the year that they will be starting. It's from 9 - 12 each morning but if needed, children can stay on until 1.30 at a small fee. </h3>
+                <h1 class="text-center">Free Pre-school Year</h1>
+                <h3 class="text-center">Children are eligible for the ECCE* scheme if they are aged over 3 years 2 months and less than 4 years 7 months on 1rst September of the year that they will be starting. It's from 9 - 12 or 1.30 - 4.30</h3>
                 <hr>
                 <p class="text-center"><a href="#contact" class="centered btn btn-info smoothscroll">contact us now!</a></p>
             </div>
 
             <div class="col-md-12">
             <hr></hr>
-                <p>* Contact us for list of schools and prices as may vary</p>
-                <p>** Early Childhood Care and Education. Places very limited, contact us now for details.</p>
+                <p>* Early Childhood Care and Education. Places very limited, contact us now for details.</p>
             </div>
         </div><!-- container -->
 
@@ -403,7 +404,8 @@
                 <p><span class="icon icon-home"></span>6 The mews Riverway</br> South Douglas road</br> Cork Ireland<br/>
                 <span class="icon icon-phone"></span>Rachel: 086 6633233<br/>
                 <span class="icon icon-mobile"></span>Sinead: 085 8274015<br/>
-                <span class="icon icon-envelop"></span> <a href="#">orchardchildcare@gmail.com</a> <br/>
+                <a href="http://www.facebook.com/orchardchildcare1"><i class="fa fa-facebook-square fa-lg"></i></a>
+                <a href="mailto:orchardchildcare@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
                 </p>
             </div><!-- col -->
 
