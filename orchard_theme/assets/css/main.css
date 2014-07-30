@@ -662,6 +662,12 @@ a:after {
     }
 }
 
+@media screen and (max-width:1024px) {
+    th h1{
+        font-size: 2em !important;
+    }
+}
+
 .thumb-review img{
     margin-top:30px;
 }
