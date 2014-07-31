@@ -366,7 +366,7 @@
             </div>
             <div class="col-md-6">
                 <h1 class="text-center">Free Pre-school Year</h1>
-                <h3 class="text-center">Children are eligible for the ECCE* scheme if they are aged over 3 years 2 months and less than 4 years 7 months on 1rst September of the year that they will be starting. Sessions at 9 - 12 and 1.30 - 4.30.</h3>
+                <h3 class="text-center">Children are eligible for the ECCE* scheme if they are aged over 3 years 2 months and less than 4 years 7 months on the 1st of September on the chosen year of enrollment. Sessions at 9 - 12 and 1.30 - 4.30.</h3>
                 <hr>
                 <p class="text-center"><a href="#contact" class="centered btn btn-info smoothscroll">contact us now!</a></p>
             </div>
