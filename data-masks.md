@@ -1,0 +1,6 @@
+- about
+- customer review
+- session times 
+- team member
+- special offer
+- contact information
