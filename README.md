@@ -11,3 +11,5 @@ The current site located at `orchardchildcare.ie` is in need of a rewrite. Right
 Proposed improvement
 ========================================================
 The site needs content management, so, I propose to use the very promising `Prismic.io` content management API which offers the client a intuitive content editing experience and allows me to simply access the content fragments. This leaves development completely open ended in terms of technology.
+
+Note. talkpr.com
